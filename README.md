@@ -1,4 +1,6 @@
 # Treasure-Hunt
 This is my first Git Repository.
-Day-1/100.
+<br>
+Day-1/100
+<br>
 Author - Radhika Aggarwal
